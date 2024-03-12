@@ -1,0 +1,23 @@
+.container {
+  width: 30%;
+}
+.form {
+  margin: 20px;
+}
+
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+button.btn {
+  background-color: #9AB973;
+  border-color: #000000;
+  border-radius: 10%;
+}
+
+button.btn:hover {
+  background-color: #9AB973;
+}

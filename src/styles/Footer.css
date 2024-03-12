@@ -1,0 +1,12 @@
+.footer {
+  box-shadow: 2px 2px 7px 1px #9AB973;
+  background: #FCFBF9;
+}
+
+.footer p {
+  margin-bottom: 20px;
+  padding: 100px 0;
+  text-align: center;
+  color: #9AB973;
+  font-size: 1rem;
+}

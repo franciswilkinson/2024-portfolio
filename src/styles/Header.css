@@ -1,0 +1,12 @@
+.header {
+  box-shadow: 2px 2px 7px 1px #9AB973;
+  background: #FCFBF9;
+}
+
+.header p {
+  margin-bottom: 20px;
+  padding: 4rem 0;
+  text-align: center;
+  color: #9AB973;
+  font-size: 1rem;
+}
