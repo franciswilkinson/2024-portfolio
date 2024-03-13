@@ -2,16 +2,14 @@
     {
         "id": 1,
         "title": "Francis Wilkinson",
-        "image":
-          "/images/FrancisWilkinson.jpg",
+        "image": "/images/FrancisWilkinson.jpg",
         "description": "",
         "github": "https://github.com/franciswilkinson"
       },
       {
         "id": 2,
         "title": "Project 1",
-        "image":
-          "/images/anime-Aura.jpeg",
+        "image": "/images/anime-Aura.jpeg",
         "description": "An anime recommendation app",
         "github": "https://"
       },

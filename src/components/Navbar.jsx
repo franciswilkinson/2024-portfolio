@@ -19,10 +19,10 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item social d-flex justify-content-center">
-            <a className="mx-2 nav-link" href="https://www.linkedin.com/in/francis-wilkinson/"><i class="fab fa-linkedin"></i></a>
+            <a className="mx-2 nav-link" href="https://www.linkedin.com/in/francis-wilkinson/"><i className="fab fa-linkedin"></i></a>
             </li>
             <li className="nav-item nav-link social d-flex justify-content-center">
-            <a className="mx-2" href="https://github.com/franciswilkinson"><i class="fab fa-github"></i></a>
+            <a className="mx-2" href="https://github.com/franciswilkinson"><i className="fab fa-github"></i></a>
             </li>
           </ul>
       </div>
