@@ -18,6 +18,12 @@
   ## Installation
   - npm i
 
+  ## Screenshot
+
+  ![js-pwd](./src/images/Screenshot.png "js-pwd")
+
+
+
   ## License
   - Please refer to the MIT license in the repo.
 
