@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Francis Wilkinson",
         "image": "FrancisWilkinson.jpg",
-        "description": "",
+        "description": "Main Project",
         "github": "https://github.com/franciswilkinson"
       },
       {
@@ -11,7 +11,7 @@
         "title": "Project 1",
         "image": "anime-aura.jpeg",
         "description": "An anime recommendation app",
-        "github": "https://"
+        "github": "https://github.com/franciswilkinson/anime-recommendation-app"
       },
       {
         "id": 1,
@@ -24,7 +24,7 @@
         "id": 1,
         "title": "Employee profile generator",
         "image": "employee_profile_gen.jpeg",
-        "description": "",
-        "github": "https://"
+        "description": "An app that uses Node.js to generate an team profile page from the command line.",
+        "github": "https://github.com/franciswilkinson/nodejs-employee-profiles"
       }
 ]
