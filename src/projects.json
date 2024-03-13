@@ -2,21 +2,21 @@
     {
         "id": 1,
         "title": "Francis Wilkinson",
-        "image": "/images/FrancisWilkinson.jpg",
+        "image": "/src/images/FrancisWilkinson.jpg",
         "description": "",
         "github": "https://github.com/franciswilkinson"
       },
       {
         "id": 2,
         "title": "Project 1",
-        "image": "/images/anime-Aura.jpeg",
+        "image": "/src/images/anime-Aura.jpeg",
         "description": "An anime recommendation app",
         "github": "https://"
       },
       {
         "id": 1,
         "title": "README file generator",
-        "image": "/images/README.jpeg",
+        "image": "/src/images/README.jpeg",
         "description": "An app build in node.js to dynamically create a README file from the command line. ",
         "github": "https://github.com/franciswilkinson/nodejs-readme"
       },
@@ -24,7 +24,7 @@
         "id": 1,
         "title": "Employee profile generator",
         "image":
-          "/images/employee_profile_gen.jpeg",
+          "/src/images/employee_profile_gen.jpeg",
         "description": "",
         "github": "https://"
       }
