@@ -24,7 +24,7 @@ function Learn() {
               <i className="fas fa-envelope text-primary mb-2"></i>
               <h4 className="text-uppercase m-0">Email</h4>
               <hr className="my-4" />
-              <div className="small text-black-50"><a href="#!">francis.wilkinson@outlook.com</a></div>
+              <div className="small text-black-50"><a href="#!">franciswilkinson@outlook.com</a></div>
             </div>
           </div>
         </div>
