@@ -5,9 +5,9 @@ import "../styles/Navbar.css";
 function Navbar() {
   return (
     <div className="container">
-    <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-bottom">
+    <nav className="navbar navbar-expand-lg fixed-bottom">
       <div className="container-fluid">
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+          <ul className="navbar">
             <li className="nav-item">
               <a className="nav-link active" aria-current="page" href="#">
                 Home

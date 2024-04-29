@@ -13,13 +13,13 @@ function JSXVariables() {
     <div className="container">
       <div className="p-5 mb-4 bg-light rounded-3">
         <div className="container-fluid py-5">
-          <h3>
+          <p>
             This site is built with React and with it I can calculate pi and circumference with JSX variables:
             {Math.PI.toFixed(2)}, and
              {calculateCircumference(5)},
-          </h3>
+          </p>
           <hr/>
-          <h3>Over the course of the last four months the percentage of Javascript in completed challenges and projects has increased considerably! This chart is built using the chartjs npm packages.</h3>
+          <p>Over the course of the last four months the percentage of Javascript in completed challenges and projects has increased considerably! This chart is built using the chartjs npm packages.</p>
           <Bar 
 data={{
 labels: ["1","2","3", "4", "5", "6", "7", "8", "9", "10"],

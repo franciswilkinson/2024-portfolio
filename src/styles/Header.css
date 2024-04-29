@@ -4,9 +4,9 @@
 }
 
 .header p {
-  margin-bottom: 20px;
-  padding: 4rem 0;
+  margin: auto;  
+  padding: 10px;
   text-align: center;
   color: #9AB973;
-  font-size: 1rem;
+  font-size: 10px;
 }

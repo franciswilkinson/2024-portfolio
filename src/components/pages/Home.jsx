@@ -2,9 +2,7 @@ import React from 'react';
 import Wrapper from "../../components/Wrapper";
 import Title from "../../components/Title";
 import Card from "../../components/Card";
-import Navbar from '../Navbar';
 import "../../styles/pages.css";
-import "../../styles/Navbar.css";
 import projects from "../../projects.json";
 
 function Home() {
@@ -19,7 +17,6 @@ function Home() {
         description={projects[0].description}
         github={projects[0].github}
       />
-      <Navbar />
       </Wrapper>
       </div>
     </div>
