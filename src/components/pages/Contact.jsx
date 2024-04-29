@@ -1,16 +1,17 @@
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
-import Navbar from '../Navbar';
 import "../../styles/pages.css";
+import Title from "../../components/Title";
 import Form from "../Form"
-import "../../styles/Navbar.css";
 import Learn from './Learn';
+import Wrapper from '../../components/Wrapper';
 
 function Contact(props) {
   return (
     <div>
+      <Wrapper>
+      <Title>Contact</Title>
       <Form />
-      <p></p>
       <Link to="learn" role="button" className="btn btn-link">
         Learn More
       </Link>
@@ -20,7 +21,7 @@ function Contact(props) {
       <Routes>
         <Route path="learn" element={<Learn />} />
       </Routes>
-      <Navbar />
+      </Wrapper>
     </div>
   );
 }

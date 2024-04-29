@@ -45,7 +45,7 @@ function Form() {
   return (
     <div className='container'>
       <p>
-        Hello {formData.Name}
+       {formData.Name}
       </p>
       <form className="form">
         <input className="form-control" 

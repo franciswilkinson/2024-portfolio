@@ -15,20 +15,14 @@ html,
   }
   
   a {
-    color: var(--lgreen);
     transition: all 0.35s;
   }
   
-  a:hover,
-  a:focus {
-    color: var(--lblue);
-  }
   
   hr {
     max-width: 100px;
     margin: 25px auto 0;
     border-width: 1px;
-    border-color: var(--lgreen);
   }
   
   hr.light {
@@ -49,11 +43,10 @@ html,
   }
   
   p {
-    font-size: 18px;
+    font-size: 12px;
     line-height: 1.5;
-    margin-bottom: 20px;
-    color: var(--lgreen);
     text-align: center;
+    margin:auto;
   }
   
   section {
@@ -69,7 +62,6 @@ html,
   }
   .contact-section .card {
     border: 0;
-    border-bottom: 0.25rem solid var(--lgreen);
   }
   .contact-section .card h4 {
     font-size: 0.8rem;
@@ -78,13 +70,13 @@ html,
     letter-spacing: 0.15rem;
   }
   .contact-section .card hr {
-    border-color: var(--lgreen);
     border-width: 0.25rem;
     width: 3rem;
   }
   .contact-section .social {
-    margin-top: 5rem;
+    margin-top: 1rem;
   }
+  
   .contact-section .social a {
     text-align: center;
     height: 3rem;
@@ -92,7 +84,6 @@ html,
     background: #EDF4F5;
     border-radius: 100%;
     line-height: 3rem;
-    color: var(--lblue);
   }
   .contact-section .social a:hover {
     color: #EDF4F5;
