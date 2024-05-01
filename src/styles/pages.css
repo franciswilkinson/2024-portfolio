@@ -37,17 +37,21 @@ html,
   h6 {
     font-family: 'Times New Roman', Times, serif;
     margin-top: auto;
-    font-weight: 200;
+    font-weight: 100;
     letter-spacing: 1px;
     text-align: center;
 
   }
   
   p {
-    font-size: 14px;
+    font-size: 1em;
     line-height: 1.5;
     text-align: center;
     margin:auto;
+  }
+
+  .text-muted {
+    font-size: 1em;
   }
 
   section {

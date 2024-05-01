@@ -1,8 +1,8 @@
 .footer {
-  box-shadow: 2px 2px 7px 1px #9AB973;
+  box-shadow: 2px 2px 2px 1px #9AB973;
   background: #FCFBF9;
   width: 100%;
-  margin: 20px 0;
+  margin: auto;
 }
 
 .footer p {
@@ -10,5 +10,5 @@
   padding-bottom: 40px;
   text-align: center;
   color: #9AB973;
-  font-size: 12px;
+  font-size: 1em;
 }

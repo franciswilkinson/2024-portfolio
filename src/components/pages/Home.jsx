@@ -24,7 +24,7 @@ function Home() {
               </div>
               <div className="col-md-8">
                 <div className="card-body">
-                  <h2 className="card-title">Welcome to my React Web Developer Portfolio Site!</h2>
+                  <h3 className="card-title">Welcome to my React Web Developer Portfolio Site!</h3>
                   <h5 className="card-text">Hi, I am Francis. I'm a Trainee Full Stack Web Developer.</h5>
                   <p className="card-text"><small className="text-muted">Looking for new & challenging roles.</small></p>
                 </div>
