@@ -1,17 +1,14 @@
 .cards {
     display: flex;
-    flex-direction: row;  
     flex-wrap: wrap;
     margin-bottom: 10px;
 }
 
 .card {
     background: #bfc1c1;
-    border-radius: 2px;
-    margin: 1rem;
+    margin: 1em;
     flex-direction: row;
     box-shadow: 2px 2px 7px 1px #9AB973;
-    text-align: left;
     max-height: 100%;
   }
 
@@ -20,20 +17,15 @@
   }
   
   .card > .img-container {
-    height: 50%;
-    min-height: 300px;
     overflow: hidden;
-    text-align: center;
     background:#ffffff;
   }
 
   .card > .img-container > img {
     width: 100%;
-    min-height: 60%;
   }
   
   .card > .content {
-    padding-left: 1rem;
     padding-right: 1rem;
     font-size: 12px;
   }
@@ -43,6 +35,8 @@
   }
   
   .card > .content > ul > li {
-    margin-top: 18px;
+    margin: auto;
+    margin-top: 1em;
+    align-items: baseline;
   }
 

@@ -10,21 +10,42 @@
         "id": 2,
         "title": "Project 1",
         "image": "anime-aura.jpeg",
-        "description": "An anime recommendation app",
+        "description": "An app that recommends anime films and TV shows by genre.",
         "github": "https://github.com/franciswilkinson/anime-recommendation-app"
       },
       {
-        "id": 1,
+        "id": 3,
         "title": "README file generator",
         "image": "README.jpeg",
         "description": "An app build in node.js to dynamically create a README file from the command line. ",
         "github": "https://github.com/franciswilkinson/nodejs-readme"
       },
       {
-        "id": 1,
+        "id": 4,
         "title": "Employee profile generator",
         "image": "employee_profile_gen.jpeg",
         "description": "An app that uses Node.js to generate an team profile page from the command line.",
         "github": "https://github.com/franciswilkinson/nodejs-employee-profiles"
+      },
+      {
+        "id": 5,
+        "title": "Project 2",
+        "image": "jobpathway.png",
+        "description": "A job search app built in React using several npm packages.",
+        "github": "https://github.com/franciswilkinson/Pathway"
+      },
+      {
+        "id": 6,
+        "title": "JS Password Generator",
+        "image": "password_gen.png",
+        "description": "An app that uses Javascript to generate a password in the browser. ",
+        "github": "https://github.com/franciswilkinson/js-pwd"
+      },
+      {
+        "id": 7,
+        "title": "Console Finances",
+        "image": "console-finances.png",
+        "description": "An Finance app that uses Javascript that outputs to the browser console.",
+        "github": "https://github.com/franciswilkinson/Console-Finances"
       }
 ]

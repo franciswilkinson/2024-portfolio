@@ -36,19 +36,20 @@ html,
   h5,
   h6 {
     font-family: 'Times New Roman', Times, serif;
+    margin-top: auto;
     font-weight: 200;
     letter-spacing: 1px;
-    color: var(--lgreen);
     text-align: center;
+
   }
   
   p {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.5;
     text-align: center;
     margin:auto;
   }
-  
+
   section {
     padding: 20px 0;
   }
@@ -57,7 +58,7 @@ html,
     font-size: 30px;
   }
 
-.contact-section {
+  .contact-section {
     padding-top: 5rem;
   }
   .contact-section .card {
@@ -75,6 +76,8 @@ html,
   }
   .contact-section .social {
     margin-top: 1rem;
+    color: #9AB973;
+
   }
   
   .contact-section .social a {
@@ -84,6 +87,8 @@ html,
     background: #EDF4F5;
     border-radius: 100%;
     line-height: 3rem;
+    color: #9AB973;
+
   }
   .contact-section .social a:hover {
     color: #EDF4F5;
